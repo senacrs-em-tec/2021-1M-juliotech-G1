@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#p{
+    text-align: justify;
+    width: 600px;
+}
+strong{
+    font-size: 55px;
+}
+h2{
+    color: green;
+}
+
+.cards{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.cards2{
+    margin: 0;
+    padding: 0;
+}
+
+.card-img-top {
+    width: 74%;
+    border-top-left-radius: calc(0.25rem- 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+#imagen{
+    vertical-align: middle;
+    width: 10rem;
+}
+
+.texto{
+    margin-top: 2rem;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+}
+body #lupa{
+    max-height: 30px;
+    max-width: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#conta{
+    max-width: 30px;
+    max-height: 30px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 400px;
+    
+}
+#barra{
+    display: flex;
+    position: relative;
+    right: 400px;
+    margin-top: 10px;
+}
+#carouselExampleIndicators img{
+    max-height: 500px;
+    max-width: 500px;
+}
